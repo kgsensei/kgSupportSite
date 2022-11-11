@@ -1,0 +1,23 @@
+body {
+	background-color: rgb(255, 255, 255);
+	font-family: sans-serif;
+	color: rgb(0, 0, 0);
+	padding: 0px;
+	margin: 0px;
+}
+
+a {
+	color: rgb(0, 100, 150);
+	transition: all 200ms;
+}
+
+a:hover {
+	color: rgb(0, 170, 225);
+}
+
+#content {
+	position: absolute;
+	top: 10%;
+	width: 40%;
+	left: 30%;
+}
